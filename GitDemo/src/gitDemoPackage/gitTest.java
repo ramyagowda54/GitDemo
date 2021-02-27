@@ -7,6 +7,7 @@ public class gitTest {
 		System.out.println("My first test output is here");
 		System.out.println("Added changes to GitDemo2");
 		System.out.println("Merge Conflict Demo");
+		"Demo Fork concept"
 	}
 
 }
