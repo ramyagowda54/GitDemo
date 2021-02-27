@@ -3,6 +3,7 @@ extra line
 one more
 commit without push
 commit with push
+trying multiple branches
 
 gui commands:
 
